@@ -1,6 +1,6 @@
-# Magento Check
+# E-Commerce Platform Check
 
- Magento Check is a utility tool designed to help developers quickly assess the health and configuration of a Magento installation. This tool provides insights into potential issues and ensures that your Magento environment is set up correctly.
+Magento Check is a utility tool designed to help developers quickly assess the health and configuration of a Magento installation. This tool provides insights into potential issues and ensures your Magento environment is set up correctly.
 
 ## Features
 
@@ -54,8 +54,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue in the repository or contact the maintainers.
+If you have any issues or questions, please feel free to open an issue in the repository or contact the maintainers.
 
 ## Disclaimer
 
-This tool is provided as-is without any guarantees. Use it at your own risk. It is an example and is by no means ready for production.
+This tool is provided as-is without any guarantees. You can use it at your own risk if you like. It is just an example and is by no means ready for production.
